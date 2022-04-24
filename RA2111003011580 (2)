@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+int QUATER1,QUATER2,sum;
+scanf("%d %d",&QUATER1,&QUATER2);
+sum=QUATER1+QUATER2;
+printf("%d",sum);
+return 0;
+}
