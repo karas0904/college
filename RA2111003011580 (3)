@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+int a=5,b=20,c;
+if(a&&b){
+printf("condition is true");
+else
+printf("condition is false");
+if(a||b)
+print("condition is true");
+return 0;
+}
